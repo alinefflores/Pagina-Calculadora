@@ -8,6 +8,6 @@
 <ul>
   <li>Manipulação de elementos com o DOM</li>
   <li>Tratamento de exceções: try/catch </li>
-  <li>JavaScript: Função Construtora, Estrutura de condicão...</li>
+  <li>JavaScript: Factory Function, Estrutura de condicão...</li>
   <li>Layout Responsivo</li>  
 </ul>
